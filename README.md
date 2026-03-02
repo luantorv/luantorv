@@ -1,11 +1,25 @@
-<h1 align="center">Hi 👋, I'm Luis Reis Viera</h1>
+<h1 align="center">Luis Reis Viera</h1>
 
-<h3 align="center"></h3>
+<h3 align="center">Currently studying Data Science and Artificial Intelligence.</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+_Background in Chemical Engineering._
 
-![My Skills](https://skillicons.dev/icons?i=linux,nix,vim,neovim,vscodium,python,django,git,github,latex,html,css,javascript,nodejss,react,express,sqlite,mongodb)
+Interested in:
+
+- DevOps
+- Machine Learning
+- Process automatization
+- Reproducible infrastructure
+
+Currently working on:
+
+- Applied data analytics projects
+- Experimentation with machine learning models
+- Declarative infrastructure and reproducible environments
+
+<h3 align="left">Principal Stack</h3>
+
+![My Skills](https://skillicons.dev/icons?i=linux,nix,python,latex,javascript,sqlite,mongodb)
 
 ---
 
