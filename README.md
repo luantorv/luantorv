@@ -9,7 +9,8 @@
 ---
 
 ### About me
-- **Current Role:** Linux Infrastructure and Application Deployment Administrator (Debian, Docker, Nginx).
+- **Current Role:** Junior Developer at Almar Autos S.A. — web app development, security remediation, refactoring, and CI/CD.
+- **Also:** Freelance Linux Infrastructure and Application Deployment Administrator (Debian, Docker, Nginx, FastAPI, PostgreSQL).
 - **Academic Affiliation:** Teaching Assistant in Análisis I and Elementos de Matemática (UNaM).
 - **Interests:** DevOps, Machine Learning, MLOps, process automation, and reproducible infrastructure (NixOS).
 
@@ -21,7 +22,12 @@
 
 ### Main Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nix,python,bash,postgres,mongodb,docker,nginx,react,js" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=bash,python,fastapi,js,ts,nextjs,react,svelte,postgres,mongodb" alt="My Skills" />
+</p>
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,nix,docker,nginx,vercel,supabase" alt="My Tools" />
 </p>
 
 ### Contact and Links
