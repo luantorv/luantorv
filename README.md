@@ -22,15 +22,30 @@
 
 ### Main Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,python,fastapi,js,ts,nextjs,react,svelte,postgres,mongodb" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=bash,python,fastapi,js,ts,nextjs,react,svelte,go,postgres" alt="My Skills" />
 </p>
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nix,docker,nginx,vercel,supabase" alt="My Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,nix,docker,nginx,vercel,supabase,netlify" alt="My Tools" />
 </p>
 
 ### Contact and Links
 - **Email:** luisreisviera@gmail.com
 - **LinkedIn:** [luantorv](https://www.linkedin.com/in/luantorv/)
 - **Portfolio:** [luantorv.github.io](https://luantorv.github.io/)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luantorv&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luantorv&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+### GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=luantorv&theme=tokyonight&hide_border=true" />
+</p>
