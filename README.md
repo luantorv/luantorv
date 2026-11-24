@@ -34,13 +34,13 @@
 
 <p align="center">
   <a href="mailto:luisreisviera@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./assets/contact/email.svg" alt="Email: Contact Me" />
   </a>
   <a href="https://www.linkedin.com/in/luantorv/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/contact/linkedin.svg" alt="LinkedIn: Let's Connect" />
   </a>
   <a href="https://luantorv.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="./assets/contact/portfolio.svg" alt="Portfolio: View My Work" />
   </a>
 </p>
 
